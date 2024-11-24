@@ -1,5 +1,3 @@
-# Presentazione: Rilevamento di Fori e Macchie nei Video
-
 ## Panoramica
 
 Questo progetto è stato sviluppato per il rilevamento automatico di fori e macchie in video utilizzando tecniche di visione artificiale. Il programma, tramite l'uso della libreria OpenCV, elabora ogni fotogramma di un video in ingresso e applica filtri di colore per individuare anomalie visive, come fori o macchie, su superfici o materiali. Quando vengono rilevate aree sospette, il programma disegna rettangoli e aggiunge etichette che indicano la presenza di "fori" o "macchie". I risultati possono essere visualizzati in tempo reale o salvati in un video di output per un'analisi successiva.
